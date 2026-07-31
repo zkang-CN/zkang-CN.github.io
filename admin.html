@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Academic Website Editor</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header editor-header">
+    <a class="site-name" href="index.html">Academic Website Editor</a>
+    <nav class="site-nav" aria-label="Editor navigation">
+      <a href="index.html">View Site</a>
+    </nav>
+    <div class="language-switch">
+      <button class="language-button is-active" type="button" id="preview-en">EN</button>
+      <button class="language-button" type="button" id="preview-zh">中文</button>
+    </div>
+  </header>
+
+  <main class="admin-shell">
+    <section class="editor-panel" aria-labelledby="editor-heading">
+      <div class="panel-heading">
+        <div>
+          <p class="eyebrow">Content Source</p>
+          <h1 id="editor-heading">Edit site-data.json</h1>
+        </div>
+        <button id="export-json" class="primary-button" type="button">Export JSON</button>
+      </div>
+
+      <div id="editor-root" class="editor-root" aria-live="polite"></div>
+
+      <details class="import-box">
+        <summary>Import JSON</summary>
+        <textarea id="import-json" rows="8" spellcheck="false" placeholder="Paste site-data.json here"></textarea>
+        <button id="apply-json" class="secondary-button" type="button">Load Pasted JSON</button>
+      </details>
+    </section>
+
+    <section class="preview-panel" aria-labelledby="preview-heading">
+      <div class="panel-heading">
+        <div>
+          <p class="eyebrow">Live Preview</p>
+          <h2 id="preview-heading">Front-end preview</h2>
+        </div>
+      </div>
+      <div id="preview-root" class="preview-root"></div>
+    </section>
+  </main>
+
+  <script src="site-renderer.js"></script>
+  <script src="admin.js"></script>
+</body>
+</html>

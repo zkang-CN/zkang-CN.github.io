@@ -1,0 +1,21 @@
+# Private source files
+*.docx
+生活照.jpg
+
+# Local verification and generated intermediates
+artifacts/
+tests/
+tools/
+docs/
+__pycache__/
+*.pyc
+
+# Superseded generated files
+assets/kang-zheng-cv.docx
+assets/kang-zheng-cv.pdf
+
+# System/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/

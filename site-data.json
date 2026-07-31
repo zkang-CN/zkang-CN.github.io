@@ -1,0 +1,644 @@
+{
+  "meta": {
+    "title": {
+      "en": "Kang Zheng | Academic Profile",
+      "zh": "郑康 | 个人学术主页"
+    },
+    "description": {
+      "en": "Academic profile of Kang Zheng, focusing on artificial intelligence for geospatial understanding, LULC mapping, HD map road element extraction, and PM2.5 assessment.",
+      "zh": "郑康的个人学术主页，关注人工智能与地学空间分析，研究方向包括 LULC 制图、高精地图道路要素提取与 PM2.5 浓度评估。"
+    }
+  },
+  "homepage": {
+    "publicationCount": 5,
+    "projectCount": 3
+  },
+  "profile": {
+    "name": {
+      "en": "Kang Zheng",
+      "zh": "郑康"
+    },
+    "alternateName": "Kang Zheng",
+    "role": {
+      "en": "Ph.D. Candidate in Geospatial Artificial Intelligence",
+      "zh": "野蛮生长的博士研究生"
+    },
+    "subtitle": {
+      "en": "No rush, take it slow and keep dancing to your own rhythm 😄!",
+      "zh": "别急，慢慢来，守住自己的节奏😄！"
+    },
+    "photo": "assets/profile.jpg",
+    "photoAlt": {
+      "en": "A photo of Zheng Kang at the westernmost tip of the Eurasian continent",
+      "zh": "郑康在欧亚大陆最西端的照片"
+    },
+    "cv": "assets/kang-zheng-cv-en.pdf",
+    "email": "zkang0211@whu.edu.com",
+    "location": {
+      "en": "Milano, Italy",
+      "zh": "意大利，米兰"
+    },
+    "details": [
+      {
+        "label": {
+          "en": "Research Field",
+          "zh": "研究领域"
+        },
+        "value": {
+          "en": "GeoAI, Remote Sensing, Spatial Data Intelligence",
+          "zh": "地球空间人工智能、GIS、遥感、LULC Mapping"
+        }
+      }
+    ],
+    "tags": [
+      "GeoAI",
+      "GIS",
+      "LULC Mapping"
+    ],
+    "links": [
+      {
+        "label": {
+          "en": "CV (EN)",
+          "zh": "英文简历"
+        },
+        "href": "assets/kang-zheng-cv-en.pdf"
+      },
+      {
+        "label": {
+          "en": "CV (ZH)",
+          "zh": "中文简历"
+        },
+        "href": "assets/kang-zheng-cv-zh.pdf"
+      },
+      {
+        "label": "Google Scholar",
+        "href": "https://scholar.google.com/citations?user=O9hE6qUAAAAJ&hl=en"
+      },
+      {
+        "label": "ResearchGate",
+        "href": "https://www.researchgate.net/profile/Kang-Zheng-14?ev=hdr_xprf"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/zkang-CN"
+      },
+      {
+        "label": "Email",
+        "href": "mailto:zkang0211@whu.edu.com"
+      }
+    ]
+  },
+  "sectionOrder": [
+    "about",
+    "news",
+    "research",
+    "publications",
+    "education",
+    "service",
+    "projects",
+    "contact"
+  ],
+  "navigation": [
+    {
+      "id": "about",
+      "label": {
+        "en": "About",
+        "zh": "简介"
+      }
+    },
+    {
+      "id": "news",
+      "label": {
+        "en": "News",
+        "zh": "动态"
+      }
+    },
+    {
+      "id": "research",
+      "label": {
+        "en": "Research",
+        "zh": "研究"
+      }
+    },
+    {
+      "id": "publications",
+      "label": {
+        "en": "Publications",
+        "zh": "论文"
+      }
+    },
+    {
+      "id": "projects",
+      "label": {
+        "en": "Projects",
+        "zh": "项目"
+      }
+    },
+    {
+      "id": "education",
+      "label": {
+        "en": "Education",
+        "zh": "教育"
+      }
+    },
+    {
+      "id": "service",
+      "label": {
+        "en": "Service",
+        "zh": "服务"
+      }
+    },
+    {
+      "id": "contact",
+      "label": {
+        "en": "Contact",
+        "zh": "联系"
+      }
+    }
+  ],
+  "about": {
+    "heading": {
+      "en": "About",
+      "zh": "个人简介"
+    },
+    "body": {
+      "en": "Kang Zheng is a Ph.D. candidate at Wuhan University and Politecnico di Milano, exploring how artificial intelligence can help solve geoscientific problems. With great support from his mentors and peers, he has published 19 papers, including 14 as first or corresponding author and 11 in CAS Q2 or above journals, such as EAAI, JAG, and JSTARS.\nHe has also participated in several research and engineering projects—work that somehow never stops 🤔, but has been truly valuable. Many thanks to all the amazing teachers and friends along the way! Feel free to reach out if you are interested in his research. Hopefully, we can do something interesting together! 😃",
+      "zh": "郑康，武汉大学博士研究生，浅浅地探索了如何使用人工智能技术解决地学问题。硕博期间，受到很多老师和同学们的帮助，至此本人已发表学术论文 19 篇，其中以第一作者/通讯作者发表 14 篇，中科院二区及以上论文 11 篇（一区2篇），包括EAAI、JAG、JSTARS等期刊。同时，参与多项横向和纵向项目工作，常在工程实践过程（根本没停过🤔）中开展科研，这种磨练真的很重要。当然，再次感谢超级棒的老师和同学们！若对本人研究感兴趣，可以随时联系我，期待一起做点有意思的事情！~😃😃😃"
+    }
+  },
+  "news": [
+    {
+      "date": "2026-Present",
+      "text": {
+        "en": "Precipitating, sprinting to graduation",
+        "zh": "沉淀中，冲刺毕业"
+      }
+    }
+  ],
+  "researchInterests": [
+    {
+      "title": "My research focuses on the interdisciplinary integration of artificial intelligence and geoscience. My previous work has primarily covered land-use and land-cover mapping, road element extraction, and PM2.5 concentration estimation. My current research explores how emerging technologies, such as foundation models and multimodal fusion, can be leveraged to address a wide range of geoscientific tasks.",
+      "titleZh": "长期关注人工智能技术与地学研究的交叉融合。过去研究主要围绕土地利用/土地覆盖制图、道路要素提取，以及PM2.5 浓度评估展开。当前研究如何通过大模型、多模态融合等前沿技术为地学任务提供服务。",
+      "body": {
+        "en": "",
+        "zh": ""
+      }
+    }
+  ],
+  "publications": [
+    {
+      "year": "2026",
+      "title": "Multi-scale feature extraction of road marking from front-view images through hybrid convolutional and vision transformer for high-definition map",
+      "authors": "K. Zheng, J. Wang, Y. Chen, J. Zhan, and Z. Liu",
+      "venue": "Engineering Applications of Artificial Intelligence, 179, 115165",
+      "tags": [
+        {
+          "en": "First author",
+          "zh": "第一作者"
+        },
+        "JCR Q1",
+        {
+          "en": "CAS Zone 1 Top",
+          "zh": "中科院一区Top"
+        },
+        "IF 9.0"
+      ],
+      "doi": "10.1016/j.engappai.2026.115165"
+    },
+    {
+      "year": "2025",
+      "title": "Daily high-resolution PM2.5 mapping using spatiotemporal CNN-transformer-KAN model",
+      "authors": "Z. Liu, K. Zheng*, Y. Song, and J. Zhang",
+      "venue": "International Journal of Applied Earth Observation and Geoinformation, 144, 104900",
+      "tags": [
+        {
+          "en": "First corresponding author",
+          "zh": "第一通讯作者"
+        },
+        "JCR Q1",
+        {
+          "en": "CAS Zone 1 Top",
+          "zh": "中科院一区Top"
+        },
+        "IF 8.6"
+      ],
+      "doi": "10.1016/j.jag.2025.104900"
+    },
+    {
+      "year": "2026",
+      "title": "Spatiotemporal Mapping of PM2.5 Exposure in China (2009-2020) Using PMMamba Model: Impacts on Vulnerable Populations and Regional Inequality",
+      "authors": "Z. Liu, K. Zheng*, J. Wang, J. Zhang, and Y. Song",
+      "venue": "Science of Remote Sensing, 100436",
+      "tags": [
+        {
+          "en": "First corresponding author",
+          "zh": "第一通讯作者"
+        },
+        "JCR Q1",
+        {
+          "en": "CAS Zone 2",
+          "zh": "中科院二区"
+        },
+        "IF 7.1"
+      ],
+      "doi": "10.1016/j.srs.2026.100436"
+    },
+    {
+      "year": "2026",
+      "title": "Efficient road marking extraction via cooperative enhancement of foundation models and Mamba",
+      "authors": "K. Zheng and F. Ren",
+      "venue": "Displays, 92, 103351",
+      "tags": [
+        {
+          "en": "First author",
+          "zh": "第一作者"
+        },
+        "JCR Q1",
+        {
+          "en": "CAS Zone 2",
+          "zh": "中科院二区"
+        },
+        "IF 3.4"
+      ],
+      "doi": "10.1016/j.displa.2026.103351"
+    },
+    {
+      "year": "2026",
+      "title": "Frequency and Prompt Learning Cooperation Enhanced Mamba for Remote Sensing Semantic Segmentation",
+      "authors": "K. Zheng et al.",
+      "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 19, 8463-8477",
+      "tags": [
+        {
+          "en": "First author",
+          "zh": "第一作者"
+        },
+        "JCR Q1",
+        {
+          "en": "CAS Zone 2",
+          "zh": "中科院二区"
+        },
+        {
+          "en": "CAS Emerging Zone 2 Top",
+          "zh": "新锐二区Top"
+        },
+        "IF 6.3"
+      ],
+      "doi": "10.1109/JSTARS.2025.3607777"
+    },
+    {
+      "year": "2025",
+      "title": "Enhancing Remote Sensing Semantic Segmentation Accuracy and Efficiency Through Transformer and Knowledge Distillation",
+      "authors": "K. Zheng et al.",
+      "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 18, 4074-4092",
+      "tags": [
+        {
+          "en": "First author",
+          "zh": "第一作者"
+        },
+        "JCR Q1",
+        {
+          "en": "CAS Zone 2 Top",
+          "zh": "中科院二区Top"
+        },
+        "IF 4.7"
+      ],
+      "doi": "10.1109/JSTARS.2025.3525634"
+    },
+    {
+      "year": "2024",
+      "title": "Estimating the spatiotemporal distribution of PM2.5 concentrations in Tianjin during the Chinese Spring Festival: Impact of fireworks ban",
+      "authors": "Z. Liu, K. Zheng*, S. Bao et al.",
+      "venue": "Environmental Pollution, 361, 124899",
+      "tags": [
+        {
+          "en": "First corresponding author",
+          "zh": "第一通讯作者"
+        },
+        "JCR Q1",
+        {
+          "en": "CAS Zone 2 Top",
+          "zh": "中科院二区Top"
+        },
+        "IF 7.6"
+      ],
+      "doi": "10.1016/j.envpol.2024.124899"
+    },
+    {
+      "year": "2024",
+      "title": "Forecasting daily PM2.5 concentrations in Wuhan with a spatial-autocorrelation-based long short-term memory model",
+      "authors": "Z. Liu, C. Ge, K. Zheng* et al.",
+      "venue": "Atmospheric Environment, 331, 120605",
+      "tags": [
+        {
+          "en": "First corresponding author",
+          "zh": "第一通讯作者"
+        },
+        "JCR Q1",
+        {
+          "en": "CAS Zone 2",
+          "zh": "中科院二区"
+        },
+        "IF 4.4"
+      ],
+      "doi": "10.1016/j.atmosenv.2024.120605"
+    },
+    {
+      "year": "2024",
+      "title": "CREVNet: a Transformer and CNN-based network for accurate segmentation of ice shelf crevasses",
+      "authors": "K. Zheng, Q. Li, Z. Wang et al.",
+      "venue": "IEEE Geoscience and Remote Sensing Letters, 1-1",
+      "tags": [
+        {
+          "en": "First author",
+          "zh": "第一作者"
+        },
+        "JCR Q1",
+        {
+          "en": "CAS Zone 3",
+          "zh": "中科院三区"
+        },
+        "IF 4.0"
+      ],
+      "doi": "10.1109/LGRS.2024.3407860"
+    },
+    {
+      "year": "2023",
+      "title": "An improved land use classification method based on DeepLab V3+ under GauGAN data enhancement",
+      "authors": "K. Zheng, H. Wang*, F. Qin, C. Miao, and Z. Han",
+      "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 16, 5526-5537",
+      "tags": [
+        {
+          "en": "First author",
+          "zh": "第一作者"
+        },
+        "JCR Q1",
+        {
+          "en": "CAS Zone 2 Top",
+          "zh": "中科院二区Top"
+        },
+        "IF 4.715"
+      ],
+      "doi": "10.1109/JSTARS.2023.3278862"
+    },
+    {
+      "year": "2022",
+      "title": "A Land Use Classification Model Based on Conditional Random Fields and Attention Mechanism Convolutional Networks",
+      "authors": "K. Zheng, H. Wang*, F. Qin, and Z. Han",
+      "venue": "Remote Sensing, 14(11), 2688",
+      "tags": [
+        {
+          "en": "First author",
+          "zh": "第一作者"
+        },
+        "JCR Q1",
+        {
+          "en": "CAS Zone 2 Top",
+          "zh": "中科院二区Top"
+        },
+        "IF 5.349"
+      ],
+      "doi": "10.3390/rs14112688"
+    },
+    {
+      "year": "2022",
+      "title": "Using Multiple Sources of Data and \"Voting Mechanisms\" for Urban Land-Use Mapping",
+      "authors": "K. Zheng, H. Zhang, H. Wang*, F. Qin, Z. Wang, and J. Zhao",
+      "venue": "Land, 11(12), 2209",
+      "tags": [
+        {
+          "en": "First author",
+          "zh": "第一作者"
+        },
+        "JCR Q1",
+        {
+          "en": "CAS Zone 2",
+          "zh": "中科院二区"
+        },
+        "IF 3.905"
+      ],
+      "doi": "10.3390/land11122209"
+    },
+    {
+      "year": "2026",
+      "title": "一种融合视觉状态空间模型与小波变换的车载图像轻量级道路要素提取网络",
+      "authors": "郑康，任福",
+      "venue": "武汉大学学报（信息科学版）, Advance online publication",
+      "tags": [
+        {
+          "en": "First author",
+          "zh": "第一作者"
+        },
+        "EI"
+      ],
+      "doi": "10.13203/j.whugis20250175"
+    },
+    {
+      "year": "2026",
+      "title": "融合基础模型与多颜色空间的道路低照度图像增强及要素提取",
+      "authors": "郑康，陈亮，任福，杜清运，田文涛，廖梦帆，张莹",
+      "venue": "地球信息科学学报, 28(7), 2246-2261",
+      "tags": [
+        {
+          "en": "First author",
+          "zh": "第一作者"
+        },
+        "EI"
+      ],
+      "doi": "10.12082/dqxxkx.2026.260107"
+    },
+    {
+      "year": "2022",
+      "title": "Deriving Urban Boundaries of Henan Province, China, Based on Sentinel-2 and Deep Learning Methods",
+      "authors": "X. Li, K. Zheng, F. Qin, H. Wang, and C. Zhao",
+      "venue": "Remote Sensing, 14(15), 3752",
+      "tags": [],
+      "doi": "10.3390/rs14153752"
+    },
+    {
+      "year": "2024",
+      "title": "Assessing landslide susceptibility based on the random forest model and multi-source heterogeneous data",
+      "authors": "M. Li, H. Wang, J. Chen, and K. Zheng",
+      "venue": "Ecological Indicators, 158, 111600",
+      "tags": [],
+      "doi": "10.1016/j.ecolind.2024.111600"
+    },
+    {
+      "year": "2024",
+      "title": "自动驾驶高精度地图特征分析及发展展望",
+      "authors": "杜清运，况路路，任福，刘江涛，冯昶，陈卓宁，张浡聪，郑康，李智程",
+      "venue": "地球信息科学学报, 26(1), 15-24",
+      "tags": [],
+      "doi": "10.12082/dqxxkx.2024.240054"
+    },
+    {
+      "year": "2025",
+      "title": "多源数据融合的内河航道水陆地形建模方法",
+      "authors": "盛兆阳，李晓雨，郑康，柯鉴，任福",
+      "venue": "时空信息学报, 32(5), 527-537",
+      "tags": [],
+      "doi": "10.20117/j.jsti.202505003"
+    },
+    {
+      "year": "2026",
+      "title": "基于开放词汇语义分割的大范围城市绿地无监督提取",
+      "authors": "丁婕玉，郑康，杜清运，任福",
+      "venue": "地球信息科学学报, 28(7), 1958-1973",
+      "tags": [],
+      "doi": "10.12082/dqxxkx.2026.260095"
+    }
+  ],
+  "projects": [
+    {
+      "period": "Completed",
+      "title": {
+        "en": "GIS-related Project",
+        "zh": "GIS相关项目"
+      },
+      "body": {
+        "en": "Completed project with a total funding of RMB 886,000; participant.",
+        "zh": "经费 88.6 万元，已结题，参与。"
+      }
+    },
+    {
+      "period": "2024-Present",
+      "title": {
+        "en": "Key Technologies for a Spatiotemporal Data Infrastructure Platform Integrating Crowdsourced Data",
+        "zh": "面向众源数据汇聚的时空数据基础平台关键技术研发"
+      },
+      "body": {
+        "en": "National Key Research and Development Program of China, No. 2024YFB2505800; ongoing project with a total funding of RMB 120 million; participant.",
+        "zh": "国家重点研发计划，项目编号 2024YFB2505800，经费 12000 万元，在研，参与。"
+      }
+    },
+    {
+      "period": "2020-Present",
+      "title": {
+        "en": "Intelligent Spatiotemporal Big Data Analysis, Mining, and Visualization Platform for High-resolution Earth Observation Applications",
+        "zh": "智能化高分应用时空大数据分析挖掘与可视化平台研发"
+      },
+      "body": {
+        "en": "Major project of the High-resolution Earth Observation System under the State Administration of Science, Technology and Industry for National Defense, No. 80-Y50G19-9001-22/23; ongoing project with a total funding of RMB 5.2 million; participant.",
+        "zh": "国防科技工业局高分辨率对地观测系统重大专项课题，项目编号 80-Y50G19-9001-22/23，经费 520 万元，在研，参与。"
+      }
+    },
+    {
+      "period": "2023-2024",
+      "title": {
+        "en": "Application-oriented Research on Base Maps for Intelligent Connected Vehicles",
+        "zh": "基础地图面向智能网联汽车应用研究"
+      },
+      "body": {
+        "en": "Project funded by the Shenzhen Municipal Planning and Natural Resources Bureau, No. SZDL2023001359; completed project with a total funding of RMB 1.24 million; participant.",
+        "zh": "深圳市规划和自然资源局项目，项目编号 SZDL2023001359，经费 124 万元，已结题，参与。"
+      }
+    },
+    {
+      "period": "2020-2023",
+      "title": {
+        "en": "Fine-scale Simulation of Urban Growth Boundaries in the Central Plains Urban Agglomeration Using Machine Learning and Swarm Intelligence Algorithms",
+        "zh": "基于机器学习和群集智能算法的中原城市群UGBs精细模拟研究"
+      },
+      "body": {
+        "en": "Project funded by the Natural Science Foundation of Henan Province, No. 202300410096; completed project with a total funding of RMB 100,000; participant.",
+        "zh": "河南省自然科学基金资助项目，项目编号 202300410096，经费 10 万元，已结题，参与。"
+      }
+    },
+    {
+      "period": "2020",
+      "title": {
+        "en": "Urban Physical Examination Project of Zhengzhou",
+        "zh": "郑州市城市体检项目（2020）"
+      },
+      "body": {
+        "en": "Participated in the 2020 urban physical examination project of Zhengzhou; completed.",
+        "zh": "参与 2020 年郑州市城市体检项目，已结项。"
+      }
+    },
+    {
+      "period": "2021",
+      "title": {
+        "en": "Urban Physical Examination Project of Zhengzhou",
+        "zh": "郑州市城市体检项目（2021）"
+      },
+      "body": {
+        "en": "Participated in the 2021 urban physical examination project of Zhengzhou; completed.",
+        "zh": "参与 2021 年郑州市城市体检项目，已结项。"
+      }
+    },
+    {
+      "period": "2022",
+      "title": {
+        "en": "Urban Physical Examination Project of Anyang",
+        "zh": "安阳市城市体检项目（2022）"
+      },
+      "body": {
+        "en": "Participated in the 2022 urban physical examination project of Anyang; completed.",
+        "zh": "参与 2022 年安阳市城市体检项目，已结项。"
+      }
+    }
+  ],
+  "education": [
+    {
+      "period": "2023-Present",
+      "institution": {
+        "en": "Wuhan University",
+        "zh": "博士：武汉大学"
+      },
+      "body": {
+        "en": "Ph.D. study focused on geospatial artificial intelligence and remote sensing applications.",
+        "zh": "专业：资源与环境（测绘工程）。"
+      }
+    },
+    {
+      "period": "2026-Present",
+      "institution": {
+        "en": "Politecnico di Milano",
+        "zh": "博士CSC联培：米兰理工大学（可惜没有去成科廷大学宋永泽老师组）"
+      },
+      "body": {
+        "en": "Ph.D. study focused on geospatial artificial intelligence and remote sensing applications.",
+        "zh": "专业：地图学与地理信息系统，导师：Maria Antonia Brovelli"
+      }
+    },
+    {
+      "period": "2020-2023",
+      "institution": {
+        "en": "Henu University",
+        "zh": "硕士：河南大学"
+      },
+      "body": {
+        "en": "GIS",
+        "zh": "专业：地图学与地理信息系统"
+      }
+    },
+    {
+      "period": "2016-2020",
+      "institution": {
+        "en": "Hunan City University",
+        "zh": "本科：湖南城市学院"
+      },
+      "body": {
+        "en": "GIS",
+        "zh": "专业：地理信息科学"
+      }
+    }
+  ],
+  "service": [
+    {
+      "text": {
+        "en": "Served as a reviewer for more than ten journals, including GIS & Remote Sensing, IEEE Transactions on Geoscience & Remote Sensing, Engineering Applications of Artificial Intelligence, Expert Systems With Applications, etc.",
+        "zh": "担任了十余个期刊审稿人，包括GIS & Remote Sensing、IEEE Transactions on Geoscience & Remote Sensing、Engineering Applications of Artificial Intelligence、Expert Systems With Applications等。"
+      }
+    }
+  ],
+  "contact": {
+    "heading": {
+      "en": "Contact",
+      "zh": "联系"
+    },
+    "body": {
+      "en": "I welcome scholars to exchange and collaborate in areas such as GeoAI, remote sensing, spatial analysis, and sustainable development.",
+      "zh": "欢迎围绕 GeoAI、遥感、空间分析、可持续发展等方向学者交流合作。"
+    }
+  }
+}
