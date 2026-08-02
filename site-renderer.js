@@ -27,7 +27,16 @@
 
   function textFor(value, language) {
     if (value && typeof value === "object" && !Array.isArray(value)) {
-      return value[language] || value.en || value.zh || "";
+      if (Object.prototype.hasOwnProperty.call(value, language)) {
+        return value[language] || "";
+      }
+      if (Object.prototype.hasOwnProperty.call(value, "en")) {
+        return value.en || "";
+      }
+      if (Object.prototype.hasOwnProperty.call(value, "zh")) {
+        return value.zh || "";
+      }
+      return "";
     }
     return value || "";
   }
@@ -94,7 +103,15 @@
   }
 
   function renderTag(tag, className) {
-    return el("span", { className }, localized("span", "", tag));
+    const wrapper = document.createDocumentFragment();
+    ["en", "zh"].forEach((language) => {
+      const text = textFor(tag, language);
+      if (!text) {
+        return;
+      }
+      wrapper.append(el("span", { className, dataLang: language, text }));
+    });
+    return wrapper;
   }
 
   function getSectionOrder(data) {

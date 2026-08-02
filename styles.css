@@ -125,8 +125,8 @@ textarea {
 
 .academic-layout {
   display: grid;
-  grid-template-columns: 260px minmax(0, 1fr);
-  gap: 44px;
+  grid-template-columns: 240px minmax(0, 1fr);
+  gap: 42px;
   width: min(var(--max-width), calc(100% - 48px));
   margin: 42px auto 76px;
   align-items: start;
@@ -140,7 +140,7 @@ textarea {
 }
 
 .profile-photo {
-  width: min(100%, 230px);
+  width: min(100%, 200px);
   margin: 0 0 20px;
   overflow: visible;
   border: 1px solid var(--line);
@@ -356,6 +356,10 @@ textarea {
 .entry-item h3 {
   margin: 0 0 6px;
   font-size: 0.96rem;
+}
+
+.research-item h3 {
+  font-weight: 400;
 }
 
 .research-item p {
@@ -618,7 +622,7 @@ textarea {
   width: min(100%, 980px);
   margin: 24px auto;
   padding: 0 20px;
-  grid-template-columns: 220px minmax(0, 1fr);
+  grid-template-columns: 210px minmax(0, 1fr);
   gap: 28px;
 }
 
@@ -650,7 +654,7 @@ textarea {
   }
 
   .profile-photo {
-    max-width: 230px;
+    max-width: 200px;
   }
 }
 

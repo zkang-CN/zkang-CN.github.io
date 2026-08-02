@@ -21,7 +21,7 @@
     "alternateName": "Kang Zheng",
     "role": {
       "en": "Ph.D. Candidate in Geospatial Artificial Intelligence",
-      "zh": "野蛮生长的博士研究生"
+      "zh": "还是博士研究生"
     },
     "subtitle": {
       "en": "No rush, take it slow and keep dancing to your own rhythm 😄!",
@@ -162,7 +162,7 @@
       "zh": "个人简介"
     },
     "body": {
-      "en": "Kang Zheng is a Ph.D. candidate at Wuhan University and Politecnico di Milano, exploring how artificial intelligence can help solve geoscientific problems. With great support from his mentors and peers, he has published 19 papers, including 14 as first or corresponding author and 11 in CAS Q2 or above journals, such as EAAI, JAG, and JSTARS.\nHe has also participated in several research and engineering projects—work that somehow never stops 🤔, but has been truly valuable. Many thanks to all the amazing teachers and friends along the way! Feel free to reach out if you are interested in his research. Hopefully, we can do something interesting together! 😃",
+      "en": "Kang Zheng is a Ph.D. candidate at Wuhan University and Politecnico di Milano, exploring how artificial intelligence can help solve geoscientific problems. With great support from his mentors and peers, he has published 19 papers, including 14 as first or corresponding author and 11 in high-impact journals, such as EAAI, JAG, and JSTARS.\nHe has also participated in several research and engineering projects—work that somehow never stops 🤔, but has been truly valuable. Many thanks to all the amazing teachers and friends along the way! Feel free to reach out if you are interested in his research. Hopefully, we can do something interesting together! 😃",
       "zh": "郑康，武汉大学博士研究生，浅浅地探索了如何使用人工智能技术解决地学问题。硕博期间，受到很多老师和同学们的帮助，至此本人已发表学术论文 19 篇，其中以第一作者/通讯作者发表 14 篇，中科院二区及以上论文 11 篇（一区2篇），包括EAAI、JAG、JSTARS等期刊。同时，参与多项横向和纵向项目工作，常在工程实践过程（根本没停过🤔）中开展科研，这种磨练真的很重要。当然，再次感谢超级棒的老师和同学们！若对本人研究感兴趣，可以随时联系我，期待一起做点有意思的事情！~😃😃😃"
     }
   },
@@ -198,7 +198,7 @@
         },
         "JCR Q1",
         {
-          "en": "CAS Zone 1 Top",
+          "en": "",
           "zh": "中科院一区Top"
         },
         "IF 9.0"
@@ -212,12 +212,12 @@
       "venue": "International Journal of Applied Earth Observation and Geoinformation, 144, 104900",
       "tags": [
         {
-          "en": "First corresponding author",
-          "zh": "第一通讯作者"
+          "en": "Corresponding author",
+          "zh": "通讯作者"
         },
         "JCR Q1",
         {
-          "en": "CAS Zone 1 Top",
+          "en": "",
           "zh": "中科院一区Top"
         },
         "IF 8.6"
@@ -231,12 +231,12 @@
       "venue": "Science of Remote Sensing, 100436",
       "tags": [
         {
-          "en": "First corresponding author",
-          "zh": "第一通讯作者"
+          "en": "Corresponding author",
+          "zh": "通讯作者"
         },
         "JCR Q1",
         {
-          "en": "CAS Zone 2",
+          "en": "",
           "zh": "中科院二区"
         },
         "IF 7.1"
@@ -255,7 +255,7 @@
         },
         "JCR Q1",
         {
-          "en": "CAS Zone 2",
+          "en": "",
           "zh": "中科院二区"
         },
         "IF 3.4"
@@ -274,11 +274,11 @@
         },
         "JCR Q1",
         {
-          "en": "CAS Zone 2",
+          "en": "",
           "zh": "中科院二区"
         },
         {
-          "en": "CAS Emerging Zone 2 Top",
+          "en": "",
           "zh": "新锐二区Top"
         },
         "IF 6.3"
@@ -297,7 +297,7 @@
         },
         "JCR Q1",
         {
-          "en": "CAS Zone 2 Top",
+          "en": "",
           "zh": "中科院二区Top"
         },
         "IF 4.7"
@@ -311,12 +311,12 @@
       "venue": "Environmental Pollution, 361, 124899",
       "tags": [
         {
-          "en": "First corresponding author",
-          "zh": "第一通讯作者"
+          "en": "Corresponding author",
+          "zh": "通讯作者"
         },
         "JCR Q1",
         {
-          "en": "CAS Zone 2 Top",
+          "en": "",
           "zh": "中科院二区Top"
         },
         "IF 7.6"
@@ -330,12 +330,12 @@
       "venue": "Atmospheric Environment, 331, 120605",
       "tags": [
         {
-          "en": "First corresponding author",
-          "zh": "第一通讯作者"
+          "en": "Corresponding author",
+          "zh": "通讯作者"
         },
         "JCR Q1",
         {
-          "en": "CAS Zone 2",
+          "en": "",
           "zh": "中科院二区"
         },
         "IF 4.4"
@@ -354,7 +354,7 @@
         },
         "JCR Q1",
         {
-          "en": "CAS Zone 3",
+          "en": "",
           "zh": "中科院三区"
         },
         "IF 4.0"
@@ -373,7 +373,7 @@
         },
         "JCR Q1",
         {
-          "en": "CAS Zone 2 Top",
+          "en": "",
           "zh": "中科院二区Top"
         },
         "IF 4.715"
@@ -392,7 +392,7 @@
         },
         "JCR Q1",
         {
-          "en": "CAS Zone 2 Top",
+          "en": "",
           "zh": "中科院二区Top"
         },
         "IF 5.349"
@@ -411,7 +411,7 @@
         },
         "JCR Q1",
         {
-          "en": "CAS Zone 2",
+          "en": "",
           "zh": "中科院二区"
         },
         "IF 3.905"

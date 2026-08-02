@@ -195,10 +195,13 @@
 
   function formatTagForEditor(tag) {
     if (tag && typeof tag === "object" && !Array.isArray(tag)) {
-      if (tag.en && tag.zh && tag.en !== tag.zh) {
-        return `${tag.en} / ${tag.zh}`;
+      if (tag.en !== undefined || tag.zh !== undefined) {
+        if (tag.en !== tag.zh) {
+          return `${tag.en || ""} / ${tag.zh || ""}`;
+        }
+        return tag.en || tag.zh || "";
       }
-      return tag.en || tag.zh || "";
+      return "";
     }
     return tag || "";
   }
@@ -208,7 +211,7 @@
     if (!tag) {
       return "";
     }
-    const parts = tag.split(/\s+\/\s+/).map((part) => part.trim());
+    const parts = tag.split(/\s*\/\s*/).map((part) => part.trim());
     if (parts.length >= 2) {
       return {
         en: parts[0],
