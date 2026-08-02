@@ -22,9 +22,8 @@ The palette should remain mostly neutral. Blue and green accents are used for re
 
 ## Typography
 
-- Display and major headings use `Source Serif 4`, `Noto Serif SC`, Georgia, serif.
-- Body text uses `Source Sans 3`, `Noto Sans SC`, Arial, sans-serif.
-- Metadata, tags, and compact utility text use the body stack in smaller sizes.
+- Display text, body copy, metadata, tags, and editor controls use `Times New Roman`, Times, and serif CJK fallbacks.
+- The base font size is 15px, with modest `rem` scaling for headings and compact utility text.
 
 Headings should be calm and balanced. Letter spacing stays at zero or positive for small utility labels.
 
