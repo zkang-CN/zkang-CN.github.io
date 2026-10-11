@@ -162,8 +162,8 @@
       "zh": "个人简介"
     },
     "body": {
-      "en": "Kang Zheng is a Ph.D. candidate at Wuhan University and Politecnico di Milano, exploring how artificial intelligence can help solve geoscientific problems. With great support from his mentors and peers, he has published 19 papers, including 14 as first or corresponding author and 11 in high-impact journals, such as EAAI, JAG, and JSTARS.\nHe has also participated in several research and engineering projects—work that somehow never stops 🤔, but has been truly valuable. Many thanks to all the amazing teachers and friends along the way! Feel free to reach out if you are interested in his research. Hopefully, we can do something interesting together! 😃",
-      "zh": "郑康，武汉大学博士研究生，浅浅地探索了如何使用人工智能技术解决地学问题。硕博期间，受到很多老师和同学们的帮助，至此本人已发表学术论文 19 篇，其中以第一作者/通讯作者发表 14 篇，中科院二区及以上论文 11 篇（一区2篇），包括EAAI、JAG、JSTARS等期刊。同时，参与多项横向和纵向项目工作，常在工程实践过程（根本没停过🤔）中开展科研，这种磨练真的很重要。当然，再次感谢超级棒的老师和同学们！若对本人研究感兴趣，可以随时联系我，期待一起做点有意思的事情！~😃😃😃"
+      "en": "Kang Zheng is a Ph.D. candidate at Wuhan University and Politecnico di Milano, exploring how artificial intelligence can help solve geoscientific problems. With great support from his mentors and peers, he has published 20 papers, including 15 as first or corresponding author and 11 in high-impact journals, such as EAAI, JAG, and JSTARS.\nHe has also participated in several research and engineering projects—work that somehow never stops 🤔, but has been truly valuable. Many thanks to all the amazing teachers and friends along the way! Feel free to reach out if you are interested in his research. Hopefully, we can do something interesting together! 😃",
+      "zh": "郑康，武汉大学博士研究生，浅浅地探索了如何使用人工智能技术解决地学问题。硕博期间，受到很多老师和同学们的帮助，至此本人已发表学术论文 20 篇，其中以第一作者/通讯作者发表 15 篇，中科院二区及以上论文 11 篇（一区2篇），包括EAAI、JAG、JSTARS等期刊。同时，参与多项横向和纵向项目工作，常在工程实践过程（根本没停过🤔）中开展科研，这种磨练真的很重要。当然，再次感谢超级棒的老师和同学们！若对本人研究感兴趣，可以随时联系我，期待一起做点有意思的事情！~😃😃😃"
     }
   },
   "news": [
@@ -186,6 +186,19 @@
     }
   ],
   "publications": [
+    {
+      "year": "2026",
+      "title": "SAMWater: a prompt-guided multimodal framework for transferable water mapping with the segment anything model",
+      "authors": "Y. Liu et al",
+      "venue": "GIScience & Remote Sensing, 63(1), 2745243",
+      "tags": [
+        {
+          "en": "Corresponding author",
+          "zh": "通讯作者"
+        }
+      ],
+      "doi": "10.1080/15481603.2026.2745243"
+    },
     {
       "year": "2026",
       "title": "Multi-scale feature extraction of road marking from front-view images through hybrid convolutional and vision transformer for high-definition map",
@@ -223,25 +236,6 @@
         "IF 8.6"
       ],
       "doi": "10.1016/j.jag.2025.104900"
-    },
-    {
-      "year": "2026",
-      "title": "Spatiotemporal Mapping of PM2.5 Exposure in China (2009-2020) Using PMMamba Model: Impacts on Vulnerable Populations and Regional Inequality",
-      "authors": "Z. Liu, K. Zheng*, J. Wang, J. Zhang, and Y. Song",
-      "venue": "Science of Remote Sensing, 100436",
-      "tags": [
-        {
-          "en": "Corresponding author",
-          "zh": "通讯作者"
-        },
-        "JCR Q1",
-        {
-          "en": "",
-          "zh": "中科院二区"
-        },
-        "IF 7.1"
-      ],
-      "doi": "10.1016/j.srs.2026.100436"
     },
     {
       "year": "2026",
@@ -284,6 +278,25 @@
         "IF 6.3"
       ],
       "doi": "10.1109/JSTARS.2025.3607777"
+    },
+    {
+      "year": "2026",
+      "title": "Spatiotemporal Mapping of PM2.5 Exposure in China (2009-2020) Using PMMamba Model: Impacts on Vulnerable Populations and Regional Inequality",
+      "authors": "Z. Liu, K. Zheng*, J. Wang, J. Zhang, and Y. Song",
+      "venue": "Science of Remote Sensing, 100436",
+      "tags": [
+        {
+          "en": "Corresponding author",
+          "zh": "通讯作者"
+        },
+        "JCR Q1",
+        {
+          "en": "",
+          "zh": "中科院二区"
+        },
+        "IF 7.1"
+      ],
+      "doi": "10.1016/j.srs.2026.100436"
     },
     {
       "year": "2025",
