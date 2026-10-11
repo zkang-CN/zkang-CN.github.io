@@ -189,7 +189,7 @@
     {
       "year": "2026",
       "title": "SAMWater: a prompt-guided multimodal framework for transferable water mapping with the segment anything model",
-      "authors": "Y. Liu et al",
+      "authors": "Y. Liu, K. Zheng*, Y. Song et al",
       "venue": "GIScience & Remote Sensing, 63(1), 2745243",
       "tags": [
         {
